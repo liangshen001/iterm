@@ -6,7 +6,7 @@
   "repository": "liangshen001/iterm",
   "type": "module",
   "scripts": {
-    "postinstall": "plist ~/Library/Preferences/com.googlecode.iterm2.plist -n iterm-preferences",
+    "buildplist": "plist ~/Library/Preferences/com.googlecode.iterm2.plist -n iterm-preferences",
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
   },
