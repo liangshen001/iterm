@@ -1,5 +1,3 @@
 # Project exclude paths
 /node_modules/
-
-iterm-preferences.d.ts
 /dist/
